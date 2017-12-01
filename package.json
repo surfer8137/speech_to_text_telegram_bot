@@ -1,0 +1,27 @@
+{
+  "name": "mibot",
+  "version": "1.0.0",
+  "description": "Telegram bot",
+  "main": "index.js",
+  "author": {
+    "name": "Nombre",
+    "email": "email@email.com"
+  },
+  "scripts": {
+    "start": "node bots/bot_1.js"
+  },
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "geolib": "^2.0.24",
+    "get-json": "1.0.0",
+    "js-yaml": "3.10.0",
+    "node-emoji": "^1.8.1",
+    "telegraf": "^3.16.0",
+    "telegraf-recast": "^2.1.0",
+    "watson-developer-cloud": "^2.42.0"
+  }
+}

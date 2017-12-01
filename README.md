@@ -8,7 +8,7 @@
 <h2> Use </h2>
 Send a voice message to the bot, and wait for a response
 <br>
-*You need a IBM cloud account and a Watson service to run it.
+*You need a IBM cloud account and a Watson service to run it. https://www.ibm.com/watson/
 <br>
 *You need to introduce your parameters on ./config/config.yml.
 <br>

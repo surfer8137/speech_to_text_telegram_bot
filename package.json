@@ -8,7 +8,7 @@
     "email": "email@email.com"
   },
   "scripts": {
-    "start": "node bots/bot_1.js"
+    "start": "node index.js"
   },
   "license": "GPL-3.0",
   "repository": {

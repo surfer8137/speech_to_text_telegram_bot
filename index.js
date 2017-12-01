@@ -1,6 +1,6 @@
 const Telegraf = require('telegraf')
 const GET      = require('get-json')
-const config   = require('../lib/config.js')
+const config   = require('./lib/config.js')
 const http     = require('http');
 const fs       = require('fs');
 const request  = require('request');
